@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PATH=home/$PATH:/active
+export PATH=home/$PATH:/active
